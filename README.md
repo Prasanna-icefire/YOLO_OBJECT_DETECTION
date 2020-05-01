@@ -11,3 +11,4 @@ To change the sorce of deection,replace the o of the videocapture() with a link 
 Make sure you have tensorflow and opencv installed. I have used tensorflow 2.0
 To run it with GPU support,easiest way to set things up would be to      conda install tensorflow-gpu
 
+![](https://raw.githubusercontent.com/Prasanna-icefire/YOLO_OBJECT_DETECTION/master/Screenshot/Screenshot%20from%202020-05-01%2016-19-33.png)
