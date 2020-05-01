@@ -7,3 +7,7 @@ Having successfully done this,change the path of the weightfile in the video.py 
 the instructions.txt
 After this run the video.py to detect objects from the webcam
 To change the sorce of deection,replace the o of the videocapture() with a link to the video enclosed in quotes.
+
+Make sure you have tensorflow and opencv installed. I have used tensorflow 2.0
+To run it with GPU support,easiest way to set things up would be to      conda install tensorflow-gpu
+
