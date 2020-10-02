@@ -1,4 +1,5 @@
 # YOLO_OBJECT_DETECTION
+YOLO is a state-of-the-art, real-time object detection system.
 I have got this up by using tutorials from https://machinelearningspace.com/the-beginners-guide-to-implementing-yolo-v3-in-tensorflow-2-0-part-1/
 All u need to do is git clone this repository,
 Into the weights folder, download yolov3.weights from https://www.dropbox.com/s/xub6nytmtbe8zzv/yolov3.weights?dl=0
